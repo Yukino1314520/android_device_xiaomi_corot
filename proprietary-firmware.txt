@@ -1,0 +1,1 @@
+# Unpinned firmware from HyperOS V816.0.11.0.ULQMIXM (plato) fastboot package
